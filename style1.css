@@ -17,7 +17,7 @@ header {
 }
 
 header h1 {
-    margin-left: 30px;
+    margin-left: 40px;
     line-height: 60px;
     float: left;
 }
@@ -34,12 +34,76 @@ header nav {
     line-height: 60px;
 }
 
-
-
 /*main*//***********************************************/
+main article, main section {
+    width: 95%;
+    background-color: white;
+    margin: 20px auto;
+    padding: 10px 5px;
+}
 
+main h1, main h2, main h3, main p {
+    margin: 10px 0px 10px 10px;
+}
 
+main h3 {
+    color: gray;
+}
 
+.author, .time {
+    color: gray;
+    margin-left: 10px;
+    font-size: 14px;
+}
 
+main section figure {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 220px;
+    height: 250px;
+    margin-left: 10px;
+}
+
+main section img {
+    width: 100%;
+    border-radius: 4px;
+}
+
+main section figure figcaption {
+    text-align: center;
+    padding: 10px 10px;
+}
+
+main section menu {
+    width: 120px;
+    margin-left: 30px;
+}
+
+/*aside*//***********************************************/
+
+aside {
+    width: 95%;
+    background-color: white;
+    margin: 20px auto;
+    padding: 10px 5px;
+}
+
+aside form {
+    margin-left: 20%;
+    margin-top: 10px;
+}
+
+aside form div {
+    margin: 10px auto;
+}
 
 /*footer*//***********************************************/
+footer {
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    line-height: 50px;
+}
