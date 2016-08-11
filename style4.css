@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 980px;
+    height: 1386px;
+    background-color: white;
+}
+
+/*header*//***********************************************/
+header {
+    width: 892px;
+    height: 61px;
+    border-bottom: 2px #938e8c solid;
+    margin: 0 auto;
+    position: relative;
+}
+
+.header_left {
+    width: 110px;
+    height: 61px;
+    background-color: #d45d5c;
+}
+
+.site {
+    font-size: 12px;
+    font-family: "SimHei";
+    color: #ffffff;
+    position: absolute;
+    margin-left: 5px;
+    bottom: 5px;
+}
+
+.date {
+    font-size: 12px;
+    font-family: "SimHei";
+    color: #d45d5c;
+    position: absolute;
+    right: 0;
+    bottom: 5px;
+}
+
+
+
+/*main*//***********************************************/
+
+
+
+/*footer*//***********************************************/
