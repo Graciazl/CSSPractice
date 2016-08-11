@@ -7,6 +7,9 @@
     width: 400px;
     height: 200px;
     background-color: #ccc;
+    position: absolute;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
 }
 
 .left_sector {
@@ -21,4 +24,7 @@
     height: 50px;
     border-radius: 50px 0 0 0;
     background-color: #fc0;
+    position: absolute;
+    bottom: 0;
+    right: 0;
 }
