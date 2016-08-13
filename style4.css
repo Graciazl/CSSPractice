@@ -26,7 +26,7 @@
 
 .site {
     font-size: 12px;
-    font-family: "SimHei";
+    font-family: sans-serif;
     color: #ffffff;
     position: absolute;
     margin-left: 5px;
@@ -35,7 +35,7 @@
 
 .date {
     font-size: 12px;
-    font-family: "SimHei";
+    font-family: sans-serif;
     color: #d45d5c;
     position: absolute;
     right: 0;
@@ -53,7 +53,7 @@
     width: 641px;
     margin-left: 44px;
     margin-top: 30px;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
     position: relative;
 }
 
@@ -61,7 +61,6 @@
     width: 30%;
     float: left;
 }
-
 
 .text3 {
     width: 30%;
@@ -74,12 +73,12 @@
 }
 
 main h3 {
-    font-family:sans-serif;
+    font-family: sans-serif;
     font-size: 16px;
     font-weight: 900;
     text-decoration: underline;
-    margin-bottom: 10px;
     color: #d45d5c;
+    margin-bottom: 3px;
 }
 
 main p {
@@ -87,6 +86,7 @@ main p {
     font-size: 12px;
     line-height: 16px;
     text-align: justify;
+    padding: 8px 0;
 }
 
 .bottom {
@@ -104,10 +104,28 @@ main p {
 .title_down {
     width: 415px;
     border-bottom: 2px #11456b solid;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
 }
 
-.sunflower {
+.title_down_left {
+    font-family: sans-serif;
+    font-size: 42px;
+    font-style: italic;
+    color: #f5e327;
+    margin-right: 20px;
+}
+
+.bottom h2, .title_down_right {
+    font-family: sans-serif;
+    font-size: 28px;
+    color: #11456b;
+    line-height: 32px;
+}
+
+.bottom_left_img {
     float: right;
+    margin: 20px 0 20px 20px;
 }
 
 .bottom_right {
@@ -135,7 +153,7 @@ footer {
 
 footer span {
     font-size: 12px;
-    font-family: "SimHei";
+    font-family: sans-serif;
     color: #d45d5c;
     position: absolute;
     right: 0;
