@@ -109,16 +109,32 @@ aside {
     padding-top: 5px;
 }
 
+.aside_img {
+    padding: 5px;
+    width: 180px;
+    height: 250px;
+    margin: 5px auto;
+}
+
+.aside_img img {
+    width: 100%;
+}
+
+.aside_table {
+    margin: 0 auto;
+    width: 200px;
+}
+
 .table {
     display: table;
     font-family: Arial;
     font-size: 12px;
     line-height: 16px;
-    margin-top: 10px;
+    margin-top: 8px;
 }
 
 .table_leftcol {
-    width: 70px;
+    width: 60px;
     display: table-cell;
 }
 
