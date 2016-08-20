@@ -12,7 +12,9 @@
 ### Practice 3 : Horizontal and vertical align
 * Practice different ways to realize horizontal and vertical align.
 
-### Practice 4 : Art newspaper design
+### Practice 4 : Newspaper design
+* Use differents ways to realize the complex layouts.
+
 ![Art Newspaper][1]
 
 [1]:https://raw.githubusercontent.com/Graciazl/picture/master/ArtNewspaper.png
