@@ -18,3 +18,7 @@
 ![Art Newspaper][1]
 
 [1]:https://raw.githubusercontent.com/Graciazl/picture/master/ArtNewspaper.png
+
+### Practice 5 : Creating your own responsive CSS grid system
+* Understand the responsive web design.
+* Realize your own responsive grid system like Bootstrap.
